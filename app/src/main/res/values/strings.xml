@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyFirebaseApp</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="correo">Correo</string>
+    <string name="password">Password</string>
+    <string name="lista_de_personas">Lista de Personas</string>
+</resources>
